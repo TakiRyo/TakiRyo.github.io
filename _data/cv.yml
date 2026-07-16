@@ -106,6 +106,13 @@ cv:
         end_date: 2025-07
 
     Publications:
+      - title: Object Triggered 3D SLAM and Automatic Map Updating for Mobile Robots
+        authors:
+          - Ryosei Takiguchi
+          - Takahiro Nozaki
+        publisher: IEEE 35th International Symposium on Industrial Electronics (ISIE), Nagoya, Japan
+        releaseDate: 2026-06-01
+
       - title: Dense SLAM-Based 3D Semantic Mapping via Pose Completion and Confidence-Weighted Multi-View Fusion
         authors:
           - Ryosei Takiguchi
@@ -113,6 +120,17 @@ cv:
         publisher: IEEE International Conference on Advanced Motion Control (AMC), Daegu, South Korea
         releaseDate: 2026-03-01
         summary: Accepted.
+
+      - title: "AI × Yanagihara Method: Automated Quantitative Assessment of Facial Nerve Palsy Using a Smartphone"
+        authors:
+          - Ryosei Takiguchi
+          - M. Yazawa
+          - H. Sakuma
+          - M. Takemaru
+          - W. Nakao
+          - Takahiro Nozaki
+        publisher: The 49th Annual Meeting of the Japan Society of Facial Nerve Research (FNR49), Yokohama, Japan
+        releaseDate: 2026-01-01
 
       - title: Estimated Speed Compensation Based on Two Types of Axis Errors
         authors:
