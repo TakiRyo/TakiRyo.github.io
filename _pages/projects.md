@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects in robotic perception, SLAM, and control.
+description: Research projects in contact-rich manipulation, robotic perception, and control.
 nav: true
 nav_order: 2
 display_categories: [research]
