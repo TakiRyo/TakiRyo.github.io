@@ -17,3 +17,8 @@ test-results/
 vendor
 
 /data
+
+# local docker override (seccomp workaround) and preview config
+docker-compose.override.yml
+.preview_site
+assets/original/

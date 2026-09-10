@@ -14,4 +14,4 @@ results with the ROS2 navigation stack for autonomous path planning.
 
 **Focus areas:** Path Planning · Navigation · Autonomous Vehicle
 
-*Jun 2025 – Jul 2025.*
+_Jun 2025 – Jul 2025._

@@ -4,7 +4,7 @@ cv:
   email: taki614ryo@gmail.com
   location: Kawasaki, Kanagawa, Japan
   image: ""
-  summary: PhD candidate specializing in contact-rich manipulation and member of Nozaki Laboratory at Keio University, participating in the JEMARO double-degree program (Keio University & École Centrale de Nantes). Working toward building intelligence that lets robots act autonomously using tactile information.
+  summary: PhD candidate specializing in VLM-based manipulation and member of Nozaki Laboratory at Keio University, participating in the JEMARO double-degree program (Keio University & École Centrale de Nantes). Working toward building intelligence that lets robots act autonomously using tactile information.
 
   social_networks:
     - network: GitHub
@@ -69,7 +69,7 @@ cv:
 
     Projects:
       - name: Visual Haptics Manipulation - Robotic Drawer Opening
-        summary: Implement a visual-haptics manipulation pipeline enabling a robotic arm to perform contact-rich tasks through force-feedback and visual perception.
+        summary: Implement a VLM-based manipulation pipeline enabling a robotic arm to manipulate articulated objects through visual reasoning and force feedback.
         highlights:
           - Robotic Manipulation
           - Haptics

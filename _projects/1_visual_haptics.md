@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Visual-Haptics Manipulation — Robotic Drawer Opening
-description: A visual-haptics manipulation pipeline enabling a robotic arm to perform contact-rich tasks through force feedback and visual perception.
-img:
+title: VLM-Based Manipulation of Articulated Objects
+description: A vision-language model proposes how a mechanism should move, and the robot revises that hypothesis through physical trial-and-error and force feedback.
+img: assets/img/manip_drawer.jpg
 importance: 1
 category: research
-related_publications: false
+related_publications: true
 ---
 
-A visual-haptics manipulation pipeline enabling a robotic arm to perform
-contact-rich tasks (e.g. drawer opening) by combining force feedback with
-visual perception.
+A vision-language model reasons about how an articulated object — a door, a
+drawer, a hinge — is meant to move, and the robot tests that hypothesis against
+the real mechanism, revising it from the forces it feels. This lets a single
+policy handle articulated objects it has never seen before.
 
-**Focus areas:** Robotic Manipulation · Haptics · Force Control · Human–Robot Interaction
+**Focus areas:** VLM-Based Manipulation · Articulated Objects · Visual Reasoning · Force Control
 
-*Ongoing (started Jan 2026), Nozaki Laboratory, Keio University.*
+_Ongoing (started Jan 2026), Nozaki Laboratory, Keio University. Presented at JIASC 2026._

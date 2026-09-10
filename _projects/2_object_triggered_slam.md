@@ -2,7 +2,7 @@
 layout: page
 title: Object-Triggered 3D Semantic SLAM
 description: An efficient 3D semantic SLAM system that selectively reconstructs environments based on object detection to optimize computational resources for mobile robots.
-img:
+img: assets/img/geometric_map.jpg
 importance: 2
 category: research
 related_publications: false
@@ -14,4 +14,4 @@ mobile robots.
 
 **Focus areas:** SLAM · Computer Vision · Perception
 
-*Sep 2025 – Jan 2026.*
+_Sep 2025 – Jan 2026._
