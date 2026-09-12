@@ -2,7 +2,7 @@
 layout: page
 title: Autonomous Driving — Obstacle Avoidance
 description: A LiDAR-based obstacle detection pipeline on a real autonomous vehicle, integrated with the ROS2 navigation stack for autonomous path planning.
-img:
+img: assets/img/autonomous_vehicle.jpg
 importance: 4
 category: research
 related_publications: false

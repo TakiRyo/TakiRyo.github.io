@@ -2,7 +2,7 @@
 layout: page
 title: Semantic 3D Mapping
 description: A semantic mapping framework combining 2D segmentation and 3D SLAM using RGB-D data. Paper accepted at AMC 2026.
-img: assets/img/semantic_map.jpg
+img: assets/img/semantic_map_card.jpg
 importance: 3
 category: research
 related_publications: true

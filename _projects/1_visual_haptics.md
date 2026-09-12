@@ -2,7 +2,7 @@
 layout: page
 title: VLM-Based Manipulation of Articulated Objects
 description: A vision-language model proposes how a mechanism should move, and the robot revises that hypothesis through physical trial-and-error and force feedback.
-img: assets/img/manip_drawer.jpg
+img: assets/img/norman_door.jpg
 importance: 1
 category: research
 related_publications: true
